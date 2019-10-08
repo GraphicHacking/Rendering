@@ -364,6 +364,40 @@ V:
     <figcaption>BSP Algorithm - Step 9</figcaption>
 </figure>
 
+
+V:
+
+## Raster approach: visibility
+#### [BSP - Complexity](https://pdfs.semanticscholar.org/d620/7c3b3a928d32761a484498d7fd23838b72e9.pdf)
+
+> 1. Space Complexity (with the refine analysis in great detail by Paterson and Yao)
+<p>
+
+>> 1. 2-d BSP tree for `$n$` edges `$O(n\log_2 n)$`
+>> 1. 3-d BSP tree for `$n$` planar facets `$O(n^{2})$`
+<p>
+
+> 1. Time Complexity
+<p>
+
+>> 1. Traversal time of `$O(n)` for a tree of `$n$` nodes.
+
+`Optimal` to refer to a tree of minimum size, or of a maximum balance {Balancing --> Ray-Tracing, Set Operations}.
+
+
+V:
+
+## Raster approach: visibility
+#### [BSP - Applications](https://pdfs.semanticscholar.org/d620/7c3b3a928d32761a484498d7fd23838b72e9.pdf)
+
+> 1. Visibility Orderings: interpret the tree as a hierarchy of separating planes
+> 1. Set Operations: union, intersection and difference of solid objects
+> 1. Collision Detection
+> 1. Shadow Generation
+> 1. Ray-Tracing
+> 1. Radiosity
+> 1. Image Segmentation: reconstruction of objects from video, MRI, CT, etc.
+
 V:
 
 ## Raster approach: visibility
