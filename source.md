@@ -240,6 +240,133 @@ V:
 V:
 
 ## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/binary-space-partitioning.png'/>
+    <figcaption>BSP Generalization - Partioning Step by Step</figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/k-d-tree-with-three-levels.jpg'/>
+    <figcaption>K-Tree with 3 levels</figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/spatial-partition-quadtree.png'/>
+    <figcaption>Quadtree</figcaption>
+</figure>
+
+V: 
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+Binary space partitioning is a generic process of recursively dividing a scene into two until the partitioning satisfies one or more requirements. It can be seen as a generalisation of other spatial tree structures where hyperplanes that partition the space may have any orientation.
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/1.png'/>
+    <figcaption>BSP Algorithm - Step 1 {Polygon P from the List | E.g A} </figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/2.png'/>
+    <figcaption>BSP Algorithm - Step 2</figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/3.png'/>
+    <figcaption>BSP Algorithm - Step 3</figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/4.png'/>
+    <figcaption>BSP Algorithm - Step 4</figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/5.png'/>
+    <figcaption>BSP Algorithm - Step 5</figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/6.png'/>
+    <figcaption>BSP Algorithm - Step 6</figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/7.png'/>
+    <figcaption>BSP Algorithm - Step 7</figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/8.png'/>
+    <figcaption>BSP Algorithm - Step 8</figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
+#### [Binary space partioning (BSP)](https://en.wikipedia.org/wiki/Binary_space_partitioning)
+
+<figure>
+    <img height='400' src='fig/9.png'/>
+    <figcaption>BSP Algorithm - Step 9</figcaption>
+</figure>
+
+V:
+
+## Raster approach: visibility
 ### [Hidden surface removal (HSR)](https://en.wikipedia.org/wiki/Hidden_surface_determination) algorithms
 #### [Warnock algorithm](https://en.wikipedia.org/wiki/Warnock_algorithm)
 
